@@ -1,2 +1,2 @@
 # Kaggle
-This repository contains my code of Kaggle competitions
+This repository contains my code for Kaggle competitions
